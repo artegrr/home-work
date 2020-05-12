@@ -15,5 +15,4 @@ radius = prompt ("А теперь посчитаем площадь круга."
 alert (2* Math.PI * radius);
 
 let convert = confirm("Может сконвертируем валюту?");
-const currency = 
-alert()
+
